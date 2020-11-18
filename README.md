@@ -5,3 +5,7 @@ Test:
 npm install
 npm install bootstrap
 npm start
+
+-> http://localhost:3000/
+
+:)
