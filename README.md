@@ -2,10 +2,9 @@ Test:
 - https://ghufran-tokopedia.web.app/
 - https://ghufran-tokopedia.firebaseapp.com/
 
-npm install
-npm install bootstrap
-npm start
-
--> http://localhost:3000/
+-> npm install
+-> npm install bootstrap
+-> npm start
+--> http://localhost:3000/
 
 :)
